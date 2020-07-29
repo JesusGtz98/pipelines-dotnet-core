@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'first'
+  name: 'BuildAgent'
 
 variables:
   solution: '**/*.sln'
